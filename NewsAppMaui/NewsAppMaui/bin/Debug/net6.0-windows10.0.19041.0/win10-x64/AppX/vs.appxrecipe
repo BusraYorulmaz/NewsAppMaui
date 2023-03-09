@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\busra\source\repos\NewsAppMaui\NewsAppMaui\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T20:35:24.686</Modified>
+      <Modified>2023-03-09T21:13:30.155</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\busra\source\repos\NewsAppMaui\NewsAppMaui\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-03-09T20:35:23.328</Modified>
+      <Modified>2023-03-09T21:13:29.686</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\busra\source\repos\NewsAppMaui\NewsAppMaui\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\NewsAppMaui.runtimeconfig.json">
       <PackagePath>NewsAppMaui.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\busra\source\repos\NewsAppMaui\NewsAppMaui\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\NewsAppMaui.dll">
       <PackagePath>NewsAppMaui.dll</PackagePath>
-      <Modified>2023-03-09T20:35:21.667</Modified>
+      <Modified>2023-03-09T21:13:28.623</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\busra\source\repos\NewsAppMaui\NewsAppMaui\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>NewsAppMaui.exe</PackagePath>
-      <Modified>2023-03-09T20:35:21.703</Modified>
+      <Modified>2023-03-09T21:13:28.633</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\busra\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.13\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1068,7 +1068,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\busra\source\repos\NewsAppMaui\NewsAppMaui\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\NewsAppMaui.deps.json">
       <PackagePath>NewsAppMaui.deps.json</PackagePath>
-      <Modified>2023-03-09T20:35:24.446</Modified>
+      <Modified>2023-03-09T21:13:30.012</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\busra\.nuget\packages\microsoft.maui.controls.ref.win\6.0.548\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
