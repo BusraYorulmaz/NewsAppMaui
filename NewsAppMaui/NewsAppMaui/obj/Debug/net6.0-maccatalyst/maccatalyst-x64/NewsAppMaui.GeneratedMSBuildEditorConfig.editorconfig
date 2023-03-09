@@ -1,0 +1,41 @@
+is_global = true
+build_property.TargetFramework = net6.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NewsAppMaui
+build_property.ProjectDir = C:\Users\busra\source\repos\NewsAppMaui\NewsAppMaui\
+
+[C:/Users/busra/source/repos/NewsAppMaui/NewsAppMaui/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NewsAppMaui.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/busra/source/repos/NewsAppMaui/NewsAppMaui/Pages/NewsDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NewsAppMaui.Pages.NewsDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\NewsDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\NewsDetailPage.xaml
+
+[C:/Users/busra/source/repos/NewsAppMaui/NewsAppMaui/Pages/NewsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NewsAppMaui.Pages.NewsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\NewsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\NewsPage.xaml
+
+[C:/Users/busra/source/repos/NewsAppMaui/NewsAppMaui/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NewsAppMaui.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/busra/source/repos/NewsAppMaui/NewsAppMaui/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NewsAppMaui.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
